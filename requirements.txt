@@ -1,2 +1,2 @@
-streamlit
-pandas
+pip install streamlit pandas
+streamlit run streamlit_app_prototype.py
